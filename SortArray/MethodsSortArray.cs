@@ -8,7 +8,7 @@ namespace SortArray
 {
     public static class MethodsSortArray
     {
-        public static int[][] Sort(int[][] array,ICustomComparison ca)
+        public static void Sort(int[][] array,ICustomComparison ca)
         {
             if (array == null || ca==null || !(ca is ICustomComparison)) throw new ArgumentNullException("Invalid argument");
             for (int i = 0; i < array.Length; i++)
@@ -21,7 +21,6 @@ namespace SortArray
                     }
                 }
             }
-            return array;
         }
 
         private static void Swap(ref int[] x, ref int[] y)

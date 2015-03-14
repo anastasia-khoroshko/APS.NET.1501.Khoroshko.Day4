@@ -21,7 +21,8 @@ namespace TestSortArray
             b[1] = new int[] { 1, 2, 9 };
             b[2] = new int[] { 20, 6, 12, -5, 7 }; 
             ca = new CustomComparisonBySumAsc();
-            Assert.ReferenceEquals(MethodsSortArray.Sort(a,ca), b);
+            MethodsSortArray.Sort(a, ca);
+            Assert.ReferenceEquals(a, b);
         }
         [TestMethod]
         public void TestSortBySumDecrease()
@@ -35,7 +36,8 @@ namespace TestSortArray
             b[1] = new int[] { 1, 2, 9 };
             b[0] = new int[] { 20, 6, 12, -5, 7 };
             ca = new CustomComparisonBySumDec();
-            Assert.ReferenceEquals(MethodsSortArray.Sort(a, ca), b);
+            MethodsSortArray.Sort(a, ca);
+            Assert.ReferenceEquals(a, b);
         }
 
         [TestMethod]
@@ -50,7 +52,8 @@ namespace TestSortArray
             b[1] = new int[] { 2, 11, 0, -4 };
             b[2] = new int[] { 20, 6, 12, -5, 7 };
             ca = new CustomComparisonByMaxAsc();
-            Assert.ReferenceEquals(MethodsSortArray.Sort(a, ca), b);
+            MethodsSortArray.Sort(a, ca);
+            Assert.ReferenceEquals(a, b);
         }
 
         [TestMethod]
@@ -65,7 +68,8 @@ namespace TestSortArray
             b[1] = new int[] { 2, 11, 0, -4 };
             b[0] = new int[] { 20, 6, 12, -5, 7 };
             ca = new CustomComparisonByMaxDec();
-            Assert.ReferenceEquals(MethodsSortArray.Sort(a, ca), b);
+            MethodsSortArray.Sort(a, ca);
+            Assert.ReferenceEquals(a, b);
         }
 
         [TestMethod]

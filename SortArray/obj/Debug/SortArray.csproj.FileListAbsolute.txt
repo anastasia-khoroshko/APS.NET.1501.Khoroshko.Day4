@@ -13,3 +13,8 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day1\
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day1\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day1\SortArray\obj\Debug\SortArray.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day1\SortArray\obj\Debug\SortArray.pdb
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\SortArray\bin\Debug\SortArray.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\SortArray\bin\Debug\SortArray.pdb
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\SortArray\obj\Debug\SortArray.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\SortArray\obj\Debug\SortArray.pdb

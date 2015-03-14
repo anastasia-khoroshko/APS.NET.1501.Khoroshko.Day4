@@ -30,3 +30,12 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day4\
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.pdb
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\TestSortArray.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\TestSortArray.pdb
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\Moq.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\SortArray.dll
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\SortArray.pdb
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\bin\Debug\Moq.xml
+C:\Users\User\Documents\GitHub\APS.NET.1501.Khoroshko.Day4\TestSortArray\obj\Debug\TestSortArray.pdb
